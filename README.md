@@ -19,3 +19,7 @@ Accuracy between about 0.71 and 0.76 in the saved notebook output.
 ## Data
 
 Kaggle Quora Question Pairs data, not included in this repository.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (quora-qn-pairs) that differ from the files above.
